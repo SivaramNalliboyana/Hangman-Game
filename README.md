@@ -1,16 +1,19 @@
-# hangman
+# Hangman game with dart and flutter
 
-A new Flutter project.
+A full hangman game with flutter.
 
-## Getting Started
+# Youtube
+* Full Youtube tutorial is available at my channel: https://youtu.be/SjqgrokYhoQ
+## Features
 
-This project is a starting point for a Flutter application.
+* Users have to guess a word
+* The words are generated randomly
+* After every wrong guess ,the man will be hanged even more
+* After the winning, a success dialog will pop up with play-again button
+* When the man is killed, then you will get a dialog with "You Loose"
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/Screenshot_1596969330.png" height=400em> <img src="screenshots/Screenshot_1596969340.png" height=400em> 
+<img src="screenshots/Screenshot_1596969346.png" height=400em> <img src="screenshots/Screenshot_1596969356.png" height=400em> 
+<img src="screenshots/Screenshot_1596969368.png" height=400em> 
